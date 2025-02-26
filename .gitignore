@@ -1,0 +1,15 @@
+# Python virtual environment
+.venv/
+venv/
+env/
+
+# Byte-code files
+*.pyc
+__pycache__/
+
+# Streamlit cache files
+.streamlit/
+
+# Operating System files
+.DS_Store # macOS
+Thumbs.db # Windows
